@@ -1,0 +1,5 @@
+{
+    "MutexName": "SimlatSharedVideoFramesMutexTrainee",
+    "SharedMemoryName": "SimlatSharedVideoFramesTrainee",
+    "ImageBandNumber": 3
+}
