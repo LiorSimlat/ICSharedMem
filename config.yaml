@@ -1,0 +1,10 @@
+multicast:
+  group: "224.1.1.1"
+  port: 5007
+  max_packet_size: 1400  # Safe size under typical MTU (1500 bytes)
+
+message_padding:
+  - none
+  - around
+  - before
+  - after
